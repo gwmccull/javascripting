@@ -1,7 +1,7 @@
 [Original Blog Post](http://gwmccull.github.io/2015/05/20/nodeschool-javascripting/)
 
 This weekend (5/23/2015), I'll be helping teach the [Javascripting exercises](https://github.com/sethvincent/javascripting) 
-from [NodeSchool.io](nodeschool.io/).  The NodeSchool site has a series of free tutorials designed to teach JavaScript,
+from [NodeSchool.io](http://nodeschool.io/).  The NodeSchool site has a series of free tutorials designed to teach JavaScript,
 Node, Git, etc.  You may choose to work through the tutorials on your own or you can attend a NodeSchool workshop where
 they'll help you through the exercises.  I believe NodeSchool workshops are generally free (or at least low cost).
 
@@ -18,3 +18,5 @@ has also been translated into a number of different languages (I count 18, inclu
 The thing that I don't like about this tutorial is that, while it begins to answer the 'how', it does not address the
 'why' of programming.  The tutorials do not have any information about why you should be interested in programming.  It
 also doesn't seem to have a set of resources for students that have passed the tutorials and want to learn more.
+
+Update: see [blog post](http://gwmccull.github.io/2015/05/22/nodeschool-learnyounode/) on the Learnyounode exercises
